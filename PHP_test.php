@@ -22,3 +22,4 @@ $HTMLout = '
 		123 test
 	</body>
 ';
+echo $HTMLout;
